@@ -1,48 +1,37 @@
-# Денис Шеховцов — Портфолио 🇺🇦🇨🇿
+# Denis Shekhovtsov — Portfolio 🇺🇦🇨🇿
 
-Привет! Меня зовут **Denis Shekhovtsov**.  
-Я изучаю IT и развиваюсь в направлении **QA / Web / Automation / Digital Projects**.
+Hi! My name is **Denis Shekhovtsov**.
 
-Сейчас я собираю портфолио и практикуюсь каждый день.
+I am learning IT and developing my skills in **QA / Web / Automation / Digital Projects**.
+
+Right now I am building my portfolio and practicing every day.
 
 ---
 
-## 🚀 Навыки (Skills)
+## 🚀 Skills
 
 - Manual QA Testing
-- Web Testing (Chrome DevTools)
-- Bug Reports / Test Cases
-- Basic HTML / CSS
-- Basic JavaScript
-- Git / GitHub
-- Работа с задачами и проектами (Trello / Notion / Jira - базово)
+- Bug Reporting (Jira-style)
+- Test Cases & Checklists
+- Basic Web Development (HTML, CSS)
+- Basic Automation / Scripting (in progress)
+- Git & GitHub (beginner)
 
 ---
 
-## 📌 Мои проекты
+## 📌 Current Goal
 
-### ✅ 1) Денис-Портфолио (этот репозиторий)
-📍 Здесь будет собрано всё моё развитие, проекты и результаты.
-
----
-
-## 🧰 Инструменты
-
-- GitHub
-- VS Code
-- Google Docs / Sheets
-- Chrome DevTools
-- Windows / Android
+My goal is to get my first job in IT (QA / Junior position) and grow professionally.
 
 ---
 
-## 📫 Контакты
+## 📂 Projects
 
-📧 Email: **i.denys.shekovtsov@gmail.com**  
-🌍 Location: Czech Republic  
+This repository will contain my portfolio projects, notes, and learning progress.
 
 ---
 
-## 🎯 Цель
+## 📬 Contacts
 
-Моя цель — выйти на стабильный доход в IT и развиваться в направлении тестирования и веб-разработки.
+- Email: **i.denys.shekovtsov@gmail.com**
+- GitHub: **https://github.com/idenisshekhovtsov-web**
