@@ -35,3 +35,32 @@ This repository will contain my portfolio projects, notes, and learning progress
 
 - Email: **i.denys.shekovtsov@gmail.com**
 - GitHub: **https://github.com/idenisshekhovtsov-web**
+
+---
+
+## 💼 Real Experience / Projects
+
+### 🌐 College Website (WordPress)
+**Website:** https://www.medberdyansk.site/
+
+I created and managed a real working website using **WordPress**.
+
+**What I did:**
+- WordPress installation and configuration
+- Theme customization
+- Website structure and navigation setup
+- Plugin installation (forms, security, SEO basics)
+- Content management and updates
+- Basic UI/UX improvements
+
+---
+
+### 🎨 Graphic Design for College (Logos & Banners)
+I created graphic materials for the same college project.
+
+**What I did:**
+- Logo design (several versions)
+- Promotional banners for website and social media
+- Basic branding and typography
+- Web graphics and visual content
+...
